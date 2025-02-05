@@ -5,7 +5,6 @@ body{
 .news{
   padding: 10px;
   margin: 10px;
-  width: 500px;
 }
 .news>img{
     height: 350px;
