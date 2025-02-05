@@ -1,6 +1,7 @@
 body{
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
+    background-color:gray;
 }
 .news{
   padding: 10px;
@@ -32,7 +33,7 @@ body{
         padding: 10px;
     }
     .news>p{
-        background-color: darkgrey;
+        background-color:cornsilk ;
         /* width:390px; */
         padding: auto;
         margin: auto;
